@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: usertokenasklcivmqiwjnvpxzklaksdfnvujwxzklaksdfnvujwxzklaksdfnvujwHello
+  secret: usertokenasklcivmqiwjnvpxzklaksdfnvujwxzklaksdfnvujwxzklaksdfnvujwHelloDEV
 
 gateway:
   ip: 192.168.0.8
